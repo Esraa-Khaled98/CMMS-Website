@@ -15,36 +15,37 @@ You can directly run it through this link [CMMS-Website](https://cmmssoftware.he
 # How to  work 
 
 1. Browse CSV file of your hospital to save time registering each device.
-![](upload.PNG)
+![](img/upload.PNG)
 2. Click upload.
 3. You will be directed to home page, where you can press render CSV to see
 your uploaded data.
-![](screen2.PNG)
+![](img/screen2.PNG)
 4. You can search for the desired device in “Search” bar and all instances of your
 selected device will be rendered.
-![](screen4.PNG)
+![](img/screen4.PNG)
 5. You can press “+” button beside each data to see more information about each device.
-![](screen3.PNG)
+![](img/screen3.PNG)
 6. Up in blue bar, you can choose from “OR”,” Neonatal” and” Radiology” to see data of
 your wanted department.
-![](screen5.PNG)
+![](img/screen5.PNG)
 7. Press your preferred department.
 8. Inside it, you will see “Repair” and “installation” section.
 9. Press any of them and click render CSV and to show your selected data.
-![](screen6.PNG)
+![](img/screen6.PNG)
 10. Click on register to add a new device and in department select your department from
 "OR"," Neonatal" or "Radiology" and data will be added to this department only and to the
 main data.
-![](screen7.PNG)
+![](img/screen7.PNG)
 11. You can log in with your preferred device and in the account page.
-![](screen8.PNG)
+![](img/screen8.PNG)
 Also, you can see all the
 data about your device and change it, your change will appear in CSV with the old change to
 remind you later of all of your changes to that device.
-![](screen9.PNG)
+![](img/screen9.PNG)
 12. In the login page, inside the bar you can see calendar .you can add any reminder you
 want to remind you regularly by email.
 
+
 # Video shows all the features application  
-[![CMMS](screen10.PNG)](https://drive.google.com/file/d/1v7ubdxrLgN_5Yt8RpLFR3E4OMdhkDd3h/view "CMMS - Click to Watch!")
+[![CMMS](img/screen10.PNG)](https://drive.google.com/file/d/1v7ubdxrLgN_5Yt8RpLFR3E4OMdhkDd3h/view "CMMS - Click to Watch!")
 
