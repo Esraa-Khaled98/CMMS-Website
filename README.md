@@ -49,7 +49,7 @@ want to remind you regularly by email.
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="screen6.PNG">
-    <source src="video.MP4" type="video/mp4">
+    <source src="video.mp4" type="video/mp4">
     <source src="video.ogg" type="video/ogg">
     <source src="video.webm" type="video/webm">
   </video>
