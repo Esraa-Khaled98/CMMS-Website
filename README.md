@@ -45,15 +45,6 @@ remind you later of all of your changes to that device.
 12. In the login page, inside the bar you can see calendar .you can add any reminder you
 want to remind you regularly by email.
 
-# Video 
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="screen6.PNG">
-    <source src="video.MP4" type="video/mp4">
-    <source src="video.ogg" type="video/ogg">
-    <source src="video.webm" type="video/webm">
-  </video>
-</figure>
-<!-- blank line -->
-
+# Video shows all the features application  
+[![CMMS](screen10.PNG)](https://drive.google.com/file/d/1v7ubdxrLgN_5Yt8RpLFR3E4OMdhkDd3h/view "CMMS - Click to Watch!")
 
