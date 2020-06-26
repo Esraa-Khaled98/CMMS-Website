@@ -46,17 +46,5 @@ remind you later of all of your changes to that device.
 want to remind you regularly by email.
 
 # Video 
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="screen6.PNG">
-    <source src="video.mp4" type="video/mp4">
-    <source src="video.ogg" type="video/ogg">
-    <source src="video.webm" type="video/webm">
-  </video>
-</figure>
-<!-- blank line -->
-<video width="320" height="240" controls>
-  <source src="video.mov" type="video/mp4">
-</video>
-
+[![CMMS](screen10.PNG)](https://drive.google.com/file/d/1v7ubdxrLgN_5Yt8RpLFR3E4OMdhkDd3h/view "CMMS - Click to Watch!")
 
